@@ -55,7 +55,7 @@ ARCore is a software development kit (SDK) developed by Google that enables augm
 
 ## Project Working
 
-**Start** 
+**Start** <br>
 ![Quick Match](Media/startGif1.gif)
 
 **Attacker Type Beyblade**
