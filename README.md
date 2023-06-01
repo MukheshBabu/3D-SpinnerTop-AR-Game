@@ -46,20 +46,6 @@ ARCore is a software development kit (SDK) developed by Google that enables augm
 - **Unity Integration :** ARCore provides a Unity package that integrates with the Unity game engine. This package includes scripts, prefabs, and examples that help developers quickly incorporate AR functionality into their Unity projects.
 
 
-## Author
-
-- [Gaurav Prakash](https://github.com/Chamoli2k2) 
-- [Harsh Bansal](https://www.github.com/Harshbansal0001)
-- [Shobhit chaudary](https://www.github.com/octokatherine)
-
-
-
-## Contributor
-<a href="https://github.com/Chamoli2k2/3D-SpinnerTop-AR-Game/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Chamoli2k2/3D-SpinnerTop-AR-Game" />
-</a>
-
-
 # 3D-SpinnerTop-AR-Game
 
 
