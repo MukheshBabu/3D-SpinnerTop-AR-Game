@@ -45,25 +45,51 @@ ARCore is a software development kit (SDK) developed by Google that enables augm
 - **Unity Integration :** ARCore provides a Unity package that integrates with the Unity game engine. This package includes scripts, prefabs, and examples that help developers quickly incorporate AR functionality into their Unity projects.
 
 
+## Project Working
+
+**Start** 
+
+![Starting the Game](Media/Input.gif)
+
+**Entering the Game**
+
+![Quick Match](Media/startGif1.gif)
+
+**Attacker Type Beyblade (Pegasus Blaze)**
+
+![Attacker](Media/Act1.gif)
+
+**Attacker Type Beyblade (L-Drago Inferno)**
+
+![Attacker](Media/Act2.gif)
+
+**Defender Type Beyblade (Dragoon Thunderclash)**
+
+![Defender1](Media/Def1.gif)
+
+**Defender Type Beyblade (Galaxy Orion)**
+
+![Defender2](Media/Def2.gif)
+
+**Fight Preview 1**
+
+![Fight Scene 1](images/Fight1.jpeg)
+
+**Fight Preview 2**
+
+![Fight Scene 2](images/Fight2.jpeg)
+
+**Fight Preview 3**
+
+![Fight Scene 3](images/Fight3.jpeg)
+
+
 ## Author
 
 - [Gaurav Prakash](https://github.com/Chamoli2k2)  
 - [Harsh Bansal](https://www.github.com/Harshbansal0001)
 - [Shobhit Choudhry](https://www.github.com/043dumb)
+- [Yaddanapudi Mukhesh Babu](https://www.github.com/MukheshBabu)
 
-
-
-## Project Working
-
-**Start** 
-![Quick Match](Media/startGif1.gif)
-
-**Attacker Type Beyblade**
-
-![Attacker](Media/Lobby2.jpeg)
-
-**Defender Type Beyblade**
-
-![Defender](Media/Lobby1.jpeg)
 
 
