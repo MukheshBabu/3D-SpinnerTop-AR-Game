@@ -118,10 +118,12 @@ ARCore is a software development kit (SDK) developed by Google that enables augm
 ## Contributor
 <a href="https://github.com/Chamoli2k2">
   <img src="https://contrib.rocks/image?repo=Chamoli2k2/3D-SpinnerTop-AR-Game" />
+  Gaurav Prakash
 </a>
 
 <a href="https://github.com/Harshbansal0001">
   <img src="https://contrib.rocks/image?repo=Chamoli2k2/3D-SpinnerTop-AR-Game" />
+  Harsh Bansal
 </a>
 
 
