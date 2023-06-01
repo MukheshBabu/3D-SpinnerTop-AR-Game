@@ -96,7 +96,7 @@ ARCore is a software development kit (SDK) developed by Google that enables augm
 ## Author
 
 - [Gaurav Prakash](https://github.com/Chamoli2k2) 
-  ![image](images/GauravPrakash.png)
+  ![image](images/GauravChamoli.png)
  
 - [Harsh Bansal](https://www.github.com/Harshbansal0001)
 - [Shobhit chaudary](https://www.github.com/octokatherine)
