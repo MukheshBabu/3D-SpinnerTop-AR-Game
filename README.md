@@ -19,7 +19,19 @@ This game is a Beyblade Augmented Reality game that will be playable on mobile d
   Also make sure to give Camera permissions to the app. It is disabled by default.
 ```
 
-- You can download APK file from Here (Android 6 and above) : [Download Here](https://drive.google.com/file/d/1fIbQTFzTROp9bl8juXz_y7Li5vrSwseD/view?usp=sharing) 
+- You can download APK file from Here (Android 6 and above) : [Download Here](https://drive.google.com/file/d/1fIbQTFzTROp9bl8juXz_y7Li5vrSwseD/view?usp=sharing)
+
+## How to play ?
+
+ - Install the game
+
+ - Choose which type of beyblade you want
+
+ - Search for empty space to place Battle Arena
+
+ - Wait for other player to join
+
+ - Then battle with the Spinner Tops 
     
 ## About Unity Game Engine
 - Unity is a popular and widely used game engine developed by Unity Technologies.
